@@ -1,0 +1,16 @@
+.country__details img{
+  margin-top: 20px;
+  height: 100px;
+  width: 200px;
+}
+.country__details{
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+  margin-top: 20px;
+  border: 1px solid purple;
+  border-radius: 20px;
+}
+.main__btn{
+  margin-bottom: 20px;
+}
